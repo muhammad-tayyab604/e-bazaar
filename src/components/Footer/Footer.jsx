@@ -150,7 +150,7 @@ export default function Footer() {
               target="_blank"
               style={{ color: mode === "dark" ? "white" : "" }}
             >
-              www.ebharat.com
+              www.ebazaar.com
             </a>
           </p>
           <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
